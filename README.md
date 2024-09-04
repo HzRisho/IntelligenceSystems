@@ -1,5 +1,5 @@
 # Intelligence-Systems
-Projects Brief: "Tic-Tac-Toe" and "Connect4" Games Using Game Theory
+Projects Brief: "Tic-Tac-Toe" and "Connect4" games using Game Theory
 
 Tic-Tac-Toe
 Tic-Tac-Toe is a simple two-player game on a 3x3 grid where the goal is to align three "X"s or "O"s in a row. This project uses game theory, specifically the Minimax algorithm and Zero-Sum principles:
